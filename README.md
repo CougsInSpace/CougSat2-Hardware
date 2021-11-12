@@ -1,0 +1,1 @@
+# CougSat2-Hardware
